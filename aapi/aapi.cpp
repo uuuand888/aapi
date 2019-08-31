@@ -1,5 +1,5 @@
-#include "aapi.h"
+#include        "atta.h"
 
-void aapi(const char* buf) {
-  printf("aapi:%s\n", buf);
+void attaapi(const char* buf) {
+        printf("attaapi:%s\n", buf);
 }
