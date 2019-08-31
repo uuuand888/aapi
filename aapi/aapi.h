@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-void aapi(const char* buf);
+void attaapi(const char* buf);
