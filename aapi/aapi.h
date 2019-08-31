@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-void attaapi(const char* buf);
+void papi(const char* buf);
